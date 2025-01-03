@@ -1,1 +1,1 @@
-Curve fitting function that models beads being dropped in both water and glycerine.
+Function that tests the validity of the relationship between terminal velocity of beads dropped in liquids and their radii based on Reynold's number. This code found that the theoretical relationshipss vterm = mg/6πηr for low Reynold's regimes and  vterm = √(2mg/ρCdA) for high Reynold's regimes did not fit the data found through experiment.
